@@ -1,5 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50" />
+<h1 align="center">Taeyun Lee — Project Collection</h1>
+<p align="center"><em>Click on any image to visit its repository.</em></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
+  <tr>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+  </tr>
+
+  <tr>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[프로젝트 이름을 넣으세요]" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[프로젝트 이름을 넣으세요]</strong></a></td>
+  </tr>
+</table>
 </div>
 
 ---
