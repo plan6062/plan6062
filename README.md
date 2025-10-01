@@ -55,12 +55,12 @@
 
 <br>
 
-### **📬 About me**
+## **📬 About me**
 <p>
-  <a href="https://velog.io/@plan6062/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"></a>
-  <a href="mailto:plan6062@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://solved.ac/profile/qwa7854"><img src="https://img.shields.io/badge/solved.ac-0077C3?style=flat-square&logo=solved.ac&logoColor=white"></a>
-  <a href="https://www.acmicpc.net/user/qwa7854"><img src="https://img.shields.io/badge/BOJ-28B1FF?style=flat-square&logo=acmicpc&logoColor=white"></a>
+  <a href="https://velog.io/@plan6062/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white"/></a>&nbsp;
+  <a href="mailto:plan6062@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://solved.ac/profile/qwa7854"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qwa7854"/></a>&nbsp;
+  <a href="https://www.acmicpc.net/user/qwa7854"><img src="https://img.shields.io/badge/BOJ-28B1FF?style=flat&logo=acmicpc&logoColor=white"/></a>
 </p>
 
 ---
