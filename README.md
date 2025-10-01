@@ -60,7 +60,6 @@
   <a href="https://velog.io/@plan6062/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white"/></a>&nbsp;
   <a href="mailto:plan6062@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="https://solved.ac/profile/qwa7854"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qwa7854"/></a>&nbsp;
-  <a href="https://www.acmicpc.net/user/qwa7854"><img src="https://img.shields.io/badge/BOJ-28B1FF?style=flat&logo=acmicpc&logoColor=white"/></a>
 </p>
 
 ---
