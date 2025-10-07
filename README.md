@@ -4,10 +4,10 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Web.png" alt="[WDSS-Web]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Unity.png" alt="[WDSS-Unity-GCS]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-ESP32.png" alt="[WDSS-ESP32-Drone]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/PintOS.png" alt="[PintOS(x86-64)]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Web.png" alt="[WDSS-Web]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Unity.png" alt="[WDSS-Unity-GCS]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-ESP32.png" alt="[WDSS-ESP32-Drone]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/PintOS.png" alt="[PintOS(x86-64)]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[WDSS-Web]</strong></a></td>
@@ -17,10 +17,10 @@
   </tr>
 
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/Qrafton.png" alt="[Qrafton]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/KUthulhu.png" alt="[Kuthulhu]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/LastCornStanding.png" alt="[LastCornStanding]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/VolunteerKU.png" alt="[VolunteerKU]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/Qrafton.png" alt="[Qrafton]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/KUthulhu.png" alt="[Kuthulhu]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/LastCornStanding.png" alt="[LastCornStanding]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/VolunteerKU.png" alt="[VolunteerKU]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[Qrafton]</strong></a></td>
@@ -47,6 +47,9 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Fabric.js-E06C9F?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 #### ⚙️ Back-End
@@ -54,6 +57,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white">
 </p>
 
 #### 💾 Database
@@ -69,10 +74,15 @@
   <img src="https://img.shields.io/badge/ESP32-E73327?style=for-the-badge&logo=espressif&logoColor=white">
   </p>
 
-
 #### 🎮 Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white">
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
 <br>
