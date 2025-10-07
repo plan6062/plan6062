@@ -4,10 +4,10 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[WDSS-Web]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[WDSS-Unity-GCS]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[WDSS-ESP32-Drone]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[PintOS(x86-64)]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Web.png" alt="[WDSS-Web]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Unity.png" alt="[WDSS-Unity-GCS]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-ESP32.png" alt="[WDSS-ESP32-Drone]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/PintOS.png" alt="[PintOS(x86-64)]" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[WDSS-Web]</strong></a></td>
@@ -17,10 +17,10 @@
   </tr>
 
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[Qrafton]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[Kuthulhu]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[LastCornStanding]" width="100%"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="[이미지 경로를 넣으세요]" alt="[VolunteerKU]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/Qrafton.png" alt="[Qrafton]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/KUthulhu.png" alt="[Kuthulhu]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/LastCornStanding.png" alt="[LastCornStanding]" width="100%"></a></td>
+    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/VolunteerKU.png" alt="[VolunteerKU]" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[Qrafton]</strong></a></td>
