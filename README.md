@@ -4,29 +4,29 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Web.png" alt="[WDSS-Web]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-Unity.png" alt="[WDSS-Unity-GCS]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/WDSS-ESP32.png" alt="[WDSS-ESP32-Drone]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/PintOS.png" alt="[PintOS(x86-64)]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/MW-1st/WDSS-web"><img src="assets/posters/WDSS-Web.png" alt="[WDSS-Web]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/MW-1st/WDSS-Unity-GCS"><img src="assets/posters/WDSS-Unity.png" alt="[WDSS-Unity-GCS]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/plan6062/WDSS-ESP-Drone"><img src="assets/posters/WDSS-ESP32.png" alt="[WDSS-ESP32-Drone]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/plan6062/JJangtos"><img src="assets/posters/PintOS.png" alt="[PintOS(x86-64)]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[WDSS-Web]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[WDSS-Unity-GCS]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[WDSS-ESP32-Drone]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[PintOS(x86-64)]</strong></a></td>
+    <td align="center"><a href="https://github.com/MW-1st/WDSS-web"><strong>[WDSS-Web]</strong></a></td>
+    <td align="center"><a href="https://github.com/MW-1st/WDSS-Unity-GCS"><strong>[WDSS-Unity-GCS]</strong></a></td>
+    <td align="center"><a href="https://github.com/plan6062/WDSS-ESP-Drone"><strong>[WDSS-ESP32-Drone]</strong></a></td>
+    <td align="center"><a href="https://github.com/plan6062/JJangtos"><strong>[PintOS(x86-64)]</strong></a></td>
   </tr>
 
   <tr>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/Qrafton.png" alt="[Qrafton]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/KUthulhu.png" alt="[Kuthulhu]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/LastCornStanding.png" alt="[LastCornStanding]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
-    <td width="25%"><a href="[레포지토리 URL을 넣으세요]"><img src="assets/posters/VolunteerKU.png" alt="[VolunteerKU]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/plan6062/qrafton"><img src="assets/posters/Qrafton.png" alt="[Qrafton]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/plan6062/KUthulhu"><img src="assets/posters/KUthulhu.png" alt="[Kuthulhu]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/plan6062/LastCornStanding"><img src="assets/posters/LastCornStanding.png" alt="[LastCornStanding]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
+    <td width="25%"><a href="https://github.com/redcarrot1/Volunteer-KU"><img src="assets/posters/VolunteerKU.png" alt="[VolunteerKU]" style="width: 100%; height: auto; object-fit: cover;"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[Qrafton]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[Kuthulhu]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[LastCornStanding]</strong></a></td>
-    <td align="center"><a href="[레포지토리 URL을 넣으세요]"><strong>[VolunteerKU]</strong></a></td>
+    <td align="center"><a href="https://github.com/plan6062/qrafton"><strong>[Qrafton]</strong></a></td>
+    <td align="center"><a href="https://github.com/plan6062/KUthulhu"><strong>[Kuthulhu]</strong></a></td>
+    <td align="center"><a href="https://github.com/plan6062/LastCornStanding"><strong>[LastCornStanding]</strong></a></td>
+    <td align="center"><a href="https://github.com/redcarrot1/Volunteer-KU"><strong>[VolunteerKU]</strong></a></td>
   </tr>
 </table>
 </div>
