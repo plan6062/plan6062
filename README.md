@@ -41,7 +41,7 @@
 
 <br>
 
-### 🛠️ Technologies I've Used
+### 🛠️ Technologies Used in My Projects
 
 #### 🚀 Front-End
 <p>
